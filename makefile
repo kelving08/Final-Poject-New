@@ -1,0 +1,2 @@
+main: main.C main.h planet.C planet.h mass.C mass.h diameter.C diameter.h planetName.C planetName.h readDouble.C readDouble.h readValue.h
+	g++ main.C planet.C mass.C diameter.C planetName.C readDouble.C -o main
